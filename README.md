@@ -41,6 +41,13 @@ To run the full game:
 python3 ~/Balloon Popping Game\full_game_working.py
 ```
 
+## Game Snippets
+#### Gameplay
+![The Game](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
+#### Game Over 
+![Game Over Screen](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
 ## Built With
 
 * [Pygame](https://www.pygame.org/docs/) - The Python Library used
