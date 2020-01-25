@@ -43,10 +43,10 @@ python3 ~/pathtofile\full_game_working.py
 
 ## Game Snippets
 #### Gameplay
-![The Game](https://github.com/markgacoka/BalloonGame/blob/master/assets/1.png)
+![The Game](https://github.com/markgacoka/BalloonGame/blob/master/assets/gameplay.png)
 
 #### Game Over 
-![Game Over Screen](https://github.com/markgacoka/BalloonGame/blob/master/assets/2.png)
+![Game Over Screen](https://github.com/markgacoka/BalloonGame/blob/master/assets/gameover.png)
 
 ## Built With
 
