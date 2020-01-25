@@ -1,87 +1,73 @@
 # BalloonGame
 
-Jerry's Balloon Popping Game as seen on Rick and Morty series
+Jerry's Balloon Popping Game as seen on Rick and Morty series. A 2D game implemented in Python.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+The goal of the game is to 'pop' as much balloons as possible without letting it hit the ceiling. A point is added each time a balloon is popped.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+These libraries should be installed to run the game successfully (for now until compiled to an .exe file). Make sure Python3 is intalled by running:
 
+* pygame
+* numpy
+
+##### In Terminal
 ```
-Give examples
+python3 get-pip.py
+pip3 install pygame
+pip3 install numpy
 ```
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+To install this repository to your local machine, you can use Git or download it directly as a .zip file above.
 
-Say what the step will be
-
+##### In Terminal
 ```
-Give the example
-```
-
-And repeat
-
-```
-until finished
+git clone https://github.com/markgacoka/BalloonGame
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+## Running the game
+To run the one balloon game as a test, type this in the terminal:
 
 ```
-Give an example
+python3 ~/Balloon Popping Game\one_balloon_working.py
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
-
+To run the full game:
 ```
-Give an example
+python3 ~/Balloon Popping Game\full_game_working.py
 ```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Pygame](https://www.pygame.org/docs/) - The Python Library used
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Gacoka Mbui** - *Initial work* - [Mark Gacoka](https://github.com/markgacoka)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is not licensed (even under open-source licenses) and is open-sourced for everyone to use, modify and distribute as they please. The project was a game development skill synthesis and I would love to see further developments by others.
+
+Enjoy the game!
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* [Game Over Sounds](http://soundbible.com/suggest.php?q=game+over&x=0&y=0) - The ending sound. Attribution 3.0
+* [Fonts](http://soundbible.com/suggest.php?q=game+over&x=0&y=0) - The ending sound. Attribution 3.0
+* [Game Start](http://www.orangefreesounds.com/) - The starting sound. The sound effect is permitted for non-commercial use under license “Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+* [Game Background](https://pixabay.com/photos/starry-sky-star-galaxies-andromeda-1654074/#) - The galaxy photo at the game's background. Creative Commons License.
+* [Balloon Icons](https://www.flaticon.com/free-icon/balloon_206542) - Icon made by Freepik from www.flaticon.com
+
+
+
+
+
+
+
