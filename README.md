@@ -1,6 +1,6 @@
 # BalloonGame
 
-Jerry's Balloon Popping Game as seen on Rick and Morty series. A 2D game implemented in Python.
+Jerry's Balloon Popping Game as seen on [Rick and Morty series](https://en.wikipedia.org/wiki/Rick_and_Morty). A 2D game implemented in Python.
 
 ## Getting Started
 
@@ -55,7 +55,7 @@ python3 ~/pathtofile\full_game_working.py
 
 ## Authors
 
-* **Gacoka Mbui** - *Initial work* - [Mark Gacoka](https://github.com/markgacoka)
+* [**Gacoka Mbui**](https://markgacoka.com)
 
 
 ## License
