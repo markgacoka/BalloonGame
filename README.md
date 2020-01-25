@@ -64,7 +64,7 @@ This project is not licensed (even under open-source licenses) and is open-sourc
 
 Enjoy the game!
 
-## Acknowledgments
+## Credits
 
 * [Game Over Sounds](http://soundbible.com/suggest.php?q=game+over&x=0&y=0) - The ending sound. Attribution 3.0
 * [Fonts](http://soundbible.com/suggest.php?q=game+over&x=0&y=0) - The ending sound. Attribution 3.0
