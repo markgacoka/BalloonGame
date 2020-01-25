@@ -33,20 +33,20 @@ git clone https://github.com/markgacoka/BalloonGame
 To run the one balloon game as a test, type this in the terminal:
 
 ```
-python3 ~/Balloon Popping Game\one_balloon_working.py
+python3 ~/pathtofile\one_balloon_working.py
 ```
 
 To run the full game:
 ```
-python3 ~/Balloon Popping Game\full_game_working.py
+python3 ~/pathtofile\full_game_working.py
 ```
 
 ## Game Snippets
 #### Gameplay
-![The Game](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![The Game](https://raw.githubusercontent.com/markgacoka/BalloonGame/blob/master/assets/1.png)
 
 #### Game Over 
-![Game Over Screen](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Game Over Screen](https://raw.githubusercontent.com/markgacoka/BalloonGame/blob/master/assets/2.png)
 
 ## Built With
 
