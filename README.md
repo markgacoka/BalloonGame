@@ -53,7 +53,7 @@ python3 ~/pathtofile\full_game_working.py
 * [Pygame](https://www.pygame.org/docs/) - The Python Library used
 
 
-## Authors
+## Author
 
 * [**Gacoka Mbui**](https://markgacoka.com)
 
